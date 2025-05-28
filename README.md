@@ -1,5 +1,9 @@
 # BusinessBuddy.online
 
+[![CI](https://github.com/parrowenterprises/businessbuddy/actions/workflows/ci.yml/badge.svg)](https://github.com/parrowenterprises/businessbuddy/actions/workflows/ci.yml)
+
+> **Development Status:** Early development - Not ready for production use
+
 A comprehensive business management platform for side hustlers and small business owners. Manage customers, services, quotes, jobs, and invoices all in one place.
 
 ## Features
